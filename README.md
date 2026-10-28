@@ -1,8 +1,8 @@
 # UCalendar Lite
 
-**Windows 桌面日历 · 任务栏时钟 · 6 个桌面组件 · AI 小秘书**
+**Windows 桌面日历 · 任务栏时钟 · 6 个桌面组件 · 6 套主题 · AI 小秘书**
 
-单文件绿色版，双击即用。日历、日程、待办、天气、番茄钟、便签住在桌面上；点任务栏时钟，今天的一切就在眼前。
+单文件绿色版，双击即用。日历、日程、待办、天气、番茄钟、便签住在桌面上；默认深色主题，点任务栏时钟，今天的一切就在眼前。
 
 [项目主页](https://tobaba.github.io/ucalendar-site/) · [下载](https://github.com/tobaba/ucalendar-lite/releases/latest/download/UCalendar-Lite.exe) · [反馈](https://github.com/tobaba/ucalendar-lite/issues)
 
@@ -55,23 +55,23 @@
 - **多服务商**：DeepSeek、任意 OpenAI 兼容接口、Claude 均可；API Key 自己填，只存本机
 - **安全边界**：写日程、删数据、执行命令都要弹窗确认；文件操作限定在工作目录
 
-## 4 套主题
+## 6 套主题
 
-深色 / 浅色 / 护眼 / 粉蓝，面板、设置、组件、弹窗统一换肤。
+深色（默认）/ 浅色 / 护眼 / 暖阳 / 粉蓝 / 黛蓝，面板、设置、组件、弹窗统一换肤。
 
 <p align="center">
-  <img src="assets/readme/themes.jpg" width="100%" alt="UCalendar Lite 四套主题">
+  <img src="assets/readme/themes.jpg" width="100%" alt="UCalendar Lite 六套主题">
 </p>
 
-想要世界时钟、秒表、时间进度、工作区预设和 14 套主题，并跟上后续新增功能？[在项目主页查看 Lite 与 Pro 的差异](https://tobaba.github.io/ucalendar-site/?from=lite#editions)。Lite 会长期维护现有免费功能。
+想要世界时钟、秒表、时间进度、工作区预设和 21 套主题，并跟上后续新增功能？[在项目主页查看 Lite 与 Pro 的差异](https://tobaba.github.io/ucalendar-site/?from=lite#editions)。Lite 会长期维护现有免费功能。
 
 ## 数据与设置
 
 <p align="center">
-  <img src="assets/readme/settings.jpg" width="100%" alt="设置：便携数据目录 D:\My 与主题">
+  <img src="assets/readme/settings.jpg" width="100%" alt="设置：便携数据目录 D:\My\UCalendar 与 6 套主题">
 </p>
 
-主题、字体大小、快捷键、演示数据与数据目录都在同一页；复制数据目录即可迁移。截图中的 `D:\My` 是便携目录示例。
+主题、字体大小、快捷键、演示数据与数据目录都在同一页；复制数据目录即可迁移。截图中的 `D:\My\UCalendar` 是便携目录示例。
 
 ## 下载
 
