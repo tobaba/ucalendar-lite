@@ -2,7 +2,7 @@
 
 **Windows 桌面日历 · 任务栏时钟 · 6 个桌面组件 · 6 套主题 · AI 小秘书**
 
-单文件绿色版，双击即用。日历、日程、待办、天气、番茄钟、便签住在桌面上；默认深色主题，点任务栏时钟，今天的一切就在眼前。
+单文件绿色版，双击即用。日历、日程、待办、天气、番茄钟、便签住在桌面上；默认深色主题，点任务栏时钟，今天的一切就在眼前。当前版本 **v2.6.1**。
 
 [项目主页](https://tobaba.github.io/ucalendar-site/) · [下载](https://github.com/tobaba/ucalendar-lite/releases/latest/download/UCalendar-Lite.exe) · [反馈](https://github.com/tobaba/ucalendar-lite/issues)
 
@@ -14,7 +14,8 @@
 
 - **任务栏时钟即入口**：左键呼出面板，右键是快捷菜单（组件开关 / 解除穿透 / 开机启动 / 退出）
 - **6 个桌面组件**：日程、月历、天气、番茄钟、倒计日、便签，拖到顺手的位置
-- **能真正干活的 AI 小秘书**：读写日程与待办，不只是聊天
+- **能真正干活的 AI 小秘书**：读写日程与待办，支持技能、记忆与检查点，不只是聊天
+- **设置 → 关于**：查看版本、数据目录、GitHub 反馈与 Lite/Pro 版本边界
 - **单文件、不登录、无广告**：数据保存在本机，删掉 exe 即卸载
 
 ## 桌面组件
@@ -52,6 +53,7 @@
 
 - **一句话建日程**：说「明天下午三点开会 在会议室 A」，确认后直接写进日历
 - **预设助手即开即用**：今日参谋、日程秘书、待办管家、周报官、月报官、年报官
+- **技能与记忆**：支持 `skills/` 技能、跨会话记忆、AI 检查点与只读研究员
 - **多服务商**：DeepSeek、任意 OpenAI 兼容接口、Claude 均可；API Key 自己填，只存本机
 - **安全边界**：写日程、删数据、执行命令都要弹窗确认；文件操作限定在工作目录
 
@@ -63,7 +65,7 @@
   <img src="assets/readme/themes.jpg" width="100%" alt="UCalendar Lite 六套主题">
 </p>
 
-想要世界时钟、秒表、时间进度、工作区预设和 21 套主题，并跟上后续新增功能？[在项目主页查看 Lite 与 Pro 的差异](https://tobaba.github.io/ucalendar-site/?from=lite#editions)。Lite 会长期维护现有免费功能。
+想要世界时钟、秒表、时间进度、工作区预设、日迹、时间册导出、今日节奏和 21 套主题，并跟上后续新增功能？[在项目主页查看 Lite 与 Pro 的差异](https://tobaba.github.io/ucalendar-site/?from=lite#editions)。Lite 会长期维护现有免费功能。
 
 ## 数据与设置
 
@@ -71,11 +73,11 @@
   <img src="assets/readme/settings.jpg" width="100%" alt="设置：便携数据目录 D:\My\UCalendar 与 6 套主题">
 </p>
 
-主题、字体大小、快捷键、演示数据与数据目录都在同一页；复制数据目录即可迁移。截图中的 `D:\My\UCalendar` 是便携目录示例。
+主题、字体大小、快捷键、演示数据与数据目录都在同一页；复制数据目录即可迁移。截图中的 `D:\My\UCalendar` 是便携目录示例。**设置 → 关于**还可查看版本、打开数据目录、前往 GitHub 反馈，以及 Lite/Pro 功能边界。
 
 ## 下载
 
-**[下载 UCalendar Lite](https://github.com/tobaba/ucalendar-lite/releases/latest/download/UCalendar-Lite.exe)**（约 7.8 MB）
+**[下载 UCalendar Lite v2.6.1](https://github.com/tobaba/ucalendar-lite/releases/latest/download/UCalendar-Lite.exe)**（约 8.3 MB）
 
 1. 下载 `UCalendar-Lite.exe`，双击运行，**无需安装**
 2. 左键点任务栏时钟呼出面板；右键时钟是快捷菜单
@@ -94,6 +96,8 @@
 **换电脑怎么迁移数据？** 复制 `%LOCALAPPDATA%\UCalendar`（或便携目录）即可，全部数据都在里面。
 
 **支持哪些系统？** Windows 10 / 11 为官方支持。
+
+**Lite 和 Pro 有什么区别？** Lite 保留日程、待办、月历、便签、6 个桌面组件、6 套主题与 AI；日迹、时间册导出、今日节奏和高级组件/主题属于 Pro。可在「设置 → 关于」或[项目主页](https://tobaba.github.io/ucalendar-site/?from=lite#editions)查看。
 
 ---
 
