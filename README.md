@@ -2,7 +2,7 @@
 
 **Windows 桌面日历 · 任务栏时钟 · 6 个桌面组件 · 6 套主题 · AI 小秘书**
 
-单文件绿色版，双击即用。日历、日程、待办、天气、番茄钟、便签住在桌面上；默认深色主题，点任务栏时钟，今天的一切就在眼前。当前版本 **v2.6.1**。
+单文件绿色版，双击即用。日历、日程、待办、天气、番茄钟、便签住在桌面上；默认深色主题，点任务栏时钟，今天的一切就在眼前。当前版本 **v2.6.5**。
 
 [项目主页](https://tobaba.github.io/ucalendar-site/) · [下载](https://github.com/tobaba/ucalendar-lite/releases/latest/download/UCalendar-Lite.exe) · [反馈](https://github.com/tobaba/ucalendar-lite/issues)
 
@@ -16,6 +16,7 @@
 - **6 个桌面组件**：日程、月历、天气、番茄钟、倒计日、便签，拖到顺手的位置
 - **能真正干活的 AI 小秘书**：读写日程与待办，支持技能、记忆与检查点，不只是聊天
 - **设置 → 关于**：查看版本、数据目录、GitHub 反馈与 Lite/Pro 版本边界
+- **Pro 边界**：项目管理、便签管理页属于 Pro；Lite 保留桌面便签与快速记录
 - **单文件、不登录、无广告**：数据保存在本机，删掉 exe 即卸载
 
 ## 桌面组件
@@ -40,9 +41,11 @@
 ## 日历与提醒
 
 - 月历 + **农历 / 节气 / 节假日调休 / 黄历宜忌**
+- **独立黄历 / 吉日窗**：1900–2100 宜忌与释义离线可查；吉日查询可直接加日程或写项目阶段
 - 日程支持自然语言输入、重复规则、提前提醒；待办四档优先级、逾期标记
 - **语音播报**：整点报时、久坐提醒、日程提醒，可换音色与语速
 - 日程 / 待办 / 便签删除后保留 30 天，可搜索、恢复、彻底删除
+- 所有导出统一走系统“另存为”，默认目录 `<data>/exports`；取消不落盘
 - 全局热键呼出（默认 `Ctrl+Alt+C`）、开机自启、常驻系统托盘
 
 ## AI 小秘书
@@ -73,7 +76,7 @@
   <img src="assets/readme/themes.jpg" width="100%" alt="UCalendar Lite 六套主题">
 </p>
 
-想要世界时钟、秒表、时间进度、工作区预设、日迹、时间册导出、今日节奏和 21 套主题，并跟上后续新增功能？[在项目主页查看 Lite 与 Pro 的差异](https://tobaba.github.io/ucalendar-site/?from=lite#editions)。Lite 会长期维护现有免费功能。
+想要项目管理、便签管理、世界时钟、秒表、时间进度、工作区预设、日迹、时间册导出、今日节奏和 21 套主题，并跟上后续新增功能？[在项目主页查看 Lite 与 Pro 的差异](https://tobaba.github.io/ucalendar-site/?from=lite#editions)。Lite 会长期维护现有免费功能。
 
 ## 数据与设置
 
@@ -89,23 +92,23 @@
   <img src="assets/readme/about.jpg" width="100%" alt="设置 → 关于：版本、GitHub 反馈与 Pro 版入口">
 </p>
 
-「设置 → 关于」可查看版本、GitHub 反馈和 Lite/Pro 功能边界；想解锁日迹、时间册导出、今日节奏与更多组件/主题，点「了解 Pro 版」前往项目主页。
+「设置 → 关于」可查看版本、GitHub 反馈和 Lite/Pro 功能边界；想解锁项目管理、便签管理、日迹、时间册导出、今日节奏与更多组件/主题，点「了解 Pro 版」前往项目主页。
 
 ## 下载
 
-**[下载 UCalendar Lite v2.6.1](https://github.com/tobaba/ucalendar-lite/releases/latest/download/UCalendar-Lite.exe)**（约 8.3 MB）
+**[下载 UCalendar Lite v2.6.5](https://github.com/tobaba/ucalendar-lite/releases/latest/download/UCalendar-Lite.exe)**（约 8.7 MB）
 
 1. 下载 `UCalendar-Lite.exe`，双击运行，**无需安装**
 2. 左键点任务栏时钟呼出面板；右键时钟是快捷菜单
 3. 数据默认保存在 `%LOCALAPPDATA%\UCalendar`；exe 同目录有 `data\` 时优先使用便携目录
 
-运行要求：Windows 10 / 11 + WebView2 运行时（Win11 与装过 Edge 的系统已自带）。
+运行要求：Windows 10 / 11 + WebView2 运行时（Win11 与装过 Edge 的系统通常已自带；缺失时首次启动会自动联网安装）。
 
 本项目完全免费，没有广告、登录或订阅。
 
 ## 常见问题
 
-**杀毒 / 系统提示未知发布者？** 个人项目未购买代码签名证书，可从 Releases 页面下载并核对文件大小。
+**杀毒 / 系统提示未知发布者？** Lite 已使用 `CN=UCalendar Studio` 代码签名；SmartScreen 首次运行仍可能提示，可从 Releases 页面下载并核对文件大小。
 
 **AI 功能必须联网吗？** 需要 API Key 与你选择的服务商；不配置时其余功能照常使用。
 
@@ -113,7 +116,7 @@
 
 **支持哪些系统？** Windows 10 / 11 为官方支持。
 
-**Lite 和 Pro 有什么区别？** Lite 保留日程、待办、月历、便签、6 个桌面组件、6 套主题与 AI；日迹、时间册导出、今日节奏和高级组件/主题属于 Pro。可在「设置 → 关于」或[项目主页](https://tobaba.github.io/ucalendar-site/?from=lite#editions)查看。
+**Lite 和 Pro 有什么区别？** Lite 保留日程、待办、月历、黄历 / 吉日、便签、6 个桌面组件、6 套主题与 AI；项目管理、便签管理、日迹、时间册导出、今日节奏和高级组件/主题属于 Pro。可在「设置 → 关于」或[项目主页](https://tobaba.github.io/ucalendar-site/?from=lite#editions)查看。
 
 ---
 
