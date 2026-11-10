@@ -2,7 +2,7 @@
 
 **Windows 桌面日历 · 任务栏时钟 · 6 个桌面组件 · 6 套主题 · AI 小秘书**
 
-单文件绿色版，双击即用。日历、日程、待办、天气、番茄钟、便签住在桌面上；默认深色主题，点任务栏时钟，今天的一切就在眼前。当前版本 **v2.6.5**。
+单文件绿色版，双击即用。日历、日程、待办、天气、番茄钟、便签住在桌面上；默认深色主题，点任务栏时钟，今天的一切就在眼前。当前版本 **v2.7.2**。
 
 [项目主页](https://tobaba.github.io/ucalendar-site/) · [下载](https://github.com/tobaba/ucalendar-lite/releases/latest/download/UCalendar-Lite.exe) · [反馈](https://github.com/tobaba/ucalendar-lite/issues)
 
@@ -76,7 +76,7 @@
   <img src="assets/readme/themes.jpg" width="100%" alt="UCalendar Lite 六套主题">
 </p>
 
-想要项目管理、便签管理、世界时钟、秒表、时间进度、工作区预设、日迹、时间册导出、今日节奏和 21 套主题，并跟上后续新增功能？[在项目主页查看 Lite 与 Pro 的差异](https://tobaba.github.io/ucalendar-site/?from=lite#editions)。Lite 会长期维护现有免费功能。
+想要项目管理、便签管理、微信机器人、世界时钟、秒表、时间进度、工作区预设、日迹、时间册导出、今日节奏和 28 套主题，并跟上后续新增功能？[在项目主页查看 Lite 与 Pro 的差异](https://tobaba.github.io/ucalendar-site/?from=lite#editions)。Lite 会长期维护现有免费功能。
 
 ## 数据与设置
 
@@ -92,11 +92,11 @@
   <img src="assets/readme/about.jpg" width="100%" alt="设置 → 关于：版本、GitHub 反馈与 Pro 版入口">
 </p>
 
-「设置 → 关于」可查看版本、GitHub 反馈和 Lite/Pro 功能边界；想解锁项目管理、便签管理、日迹、时间册导出、今日节奏与更多组件/主题，点「了解 Pro 版」前往项目主页。
+「设置 → 关于」可查看版本、GitHub 反馈和 Lite/Pro 功能边界；想解锁项目管理、便签管理、微信机器人、日迹、时间册导出、今日节奏与更多组件/主题，点「了解 Pro 版」前往项目主页。
 
 ## 下载
 
-**[下载 UCalendar Lite v2.6.5](https://github.com/tobaba/ucalendar-lite/releases/latest/download/UCalendar-Lite.exe)**（约 8.7 MB）
+**[下载 UCalendar Lite v2.7.2](https://github.com/tobaba/ucalendar-lite/releases/latest/download/UCalendar-Lite.exe)**（约 8.7 MB）
 
 1. 下载 `UCalendar-Lite.exe`，双击运行，**无需安装**
 2. 左键点任务栏时钟呼出面板；右键时钟是快捷菜单
@@ -116,7 +116,7 @@
 
 **支持哪些系统？** Windows 10 / 11 为官方支持。
 
-**Lite 和 Pro 有什么区别？** Lite 保留日程、待办、月历、黄历 / 吉日、便签、6 个桌面组件、6 套主题与 AI；项目管理、便签管理、日迹、时间册导出、今日节奏和高级组件/主题属于 Pro。可在「设置 → 关于」或[项目主页](https://tobaba.github.io/ucalendar-site/?from=lite#editions)查看。
+**Lite 和 Pro 有什么区别？** Lite 保留日程、待办、月历、黄历 / 吉日、便签、6 个桌面组件、6 套主题与 AI；项目管理、便签管理、微信机器人、日迹、时间册导出、今日节奏和高级组件/主题属于 Pro。可在「设置 → 关于」或[项目主页](https://tobaba.github.io/ucalendar-site/?from=lite#editions)查看。
 
 ---
 
