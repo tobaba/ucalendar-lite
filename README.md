@@ -2,7 +2,7 @@
 
 **Windows 桌面日历 · 任务栏时钟 · 6 个桌面组件 · 6 套主题 · AI 小秘书**
 
-单文件绿色版，双击即用。日历、日程、待办、天气、番茄钟、便签住在桌面上；默认深色主题，点任务栏时钟，今天的一切就在眼前。当前版本 **v2.7.2**。
+单文件绿色版，双击即用。日历、日程、待办、天气、番茄钟、便签住在桌面上；默认深色主题，点任务栏时钟，今天的一切就在眼前。当前版本 **v2.8.0**。
 
 [项目主页](https://tobaba.github.io/ucalendar-site/) · [下载](https://github.com/tobaba/ucalendar-lite/releases/latest/download/UCalendar-Lite.exe) · [反馈](https://github.com/tobaba/ucalendar-lite/issues)
 
@@ -96,7 +96,7 @@
 
 ## 下载
 
-**[下载 UCalendar Lite v2.7.2](https://github.com/tobaba/ucalendar-lite/releases/latest/download/UCalendar-Lite.exe)**（约 8.7 MB）
+**[下载 UCalendar Lite v2.8.0](https://github.com/tobaba/ucalendar-lite/releases/latest/download/UCalendar-Lite.exe)**（约 8.7 MB）
 
 1. 下载 `UCalendar-Lite.exe`，双击运行，**无需安装**
 2. 左键点任务栏时钟呼出面板；右键时钟是快捷菜单
