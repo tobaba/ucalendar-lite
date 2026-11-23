@@ -89,6 +89,16 @@
 
 本项目完全免费，没有广告、登录或订阅。
 
+## 赞赏支持
+
+Lite 应用内不显示赞赏入口；如果它帮到了你，可以在本页扫码支持，完全自愿。
+
+<p align="center">
+  <img src="assets/readme/support-qr.png" width="220" alt="UCalendar 微信赞赏码">
+</p>
+
+扫码后请在赞赏留言中填写邮箱，作者会把支持码发到该邮箱。Pro 版 20 元起，一次支持，长期可用。
+
 ## 常见问题
 
 **杀毒 / 系统提示未知发布者？** Lite 已使用 `CN=UCalendar Studio` 代码签名；SmartScreen 首次运行仍可能提示，可从 Releases 页面下载并核对文件大小。
