@@ -2,13 +2,13 @@
 
 **Windows 桌面日历 · 任务栏时钟 · 6 个桌面组件 · 6 套主题 · AI 小秘书**
 
-单文件绿色版，双击即用。日历、日程、待办、天气、番茄钟、便签住在桌面上；默认深色主题，点任务栏时钟，今天的一切就在眼前。当前版本 **v2.8.2**。
+单文件绿色版，双击即用。日历、日程、待办、天气、番茄钟、便签住在桌面上；默认深色主题，点任务栏时钟，今天的一切就在眼前。当前版本 **v3.0.0**。
 
 [项目主页](https://tobaba.github.io/ucalendar-site/?from=lite) · [下载](https://github.com/tobaba/ucalendar-lite/releases/latest/download/UCalendar-Lite.exe) · [反馈](https://github.com/tobaba/ucalendar-lite/issues)
 
 <p align="center">
   <a href="https://github.com/tobaba/ucalendar-lite/releases/latest">
-    <img src="assets/readme/v282/hero-lite.png" width="100%" alt="UCalendar Lite v2.8.2：6 个桌面组件、6 套主题、AI 秘书免费可用">
+    <img src="assets/readme/v300/hero-lite.png" width="100%" alt="UCalendar Lite v3.0.0：6 个桌面组件、6 套主题、AI 秘书免费可用">
   </a>
 </p>
 
@@ -24,7 +24,7 @@
 ## 6 个桌面组件
 
 <p align="center">
-  <img src="assets/readme/v282/widgets-lite.png" width="100%" alt="UCalendar Lite 6 个桌面组件：桌面月历、今日安排、天气、番茄钟、倒计时、便签">
+  <img src="assets/readme/v300/widgets-lite.png" width="100%" alt="UCalendar Lite 6 个桌面组件：桌面月历、今日安排、天气、番茄钟、倒计时、便签">
 </p>
 
 - **桌面月历**：农历、节气、节假日调休、跨天日程条、项目条与日程圆点
@@ -49,7 +49,7 @@
 ## AI 小秘书
 
 <p align="center">
-  <img src="assets/readme/v282/ai-lite.png" width="100%" alt="UCalendar Lite AI 小秘书：7 个预设助手、技能与记忆">
+  <img src="assets/readme/v300/ai-lite.png" width="100%" alt="UCalendar Lite AI 小秘书：7 个预设助手、技能与记忆">
 </p>
 
 - **一句话建日程**：说「明天下午三点开会 在会议室 A」，确认后直接写进日历
@@ -64,7 +64,7 @@
 深色（默认）/ 浅色 / 护眼 / 暖阳 / 粉蓝 / 黛蓝，面板、设置、组件、弹窗统一换肤；支持切换字体与字号。
 
 <p align="center">
-  <img src="assets/readme/v282/themes-lite.png" width="100%" alt="UCalendar Lite 6 套主题：深色、浅色、护眼、暖阳、粉蓝、黛蓝">
+  <img src="assets/readme/v300/themes-lite.png" width="100%" alt="UCalendar Lite 6 套主题：深色、浅色、护眼、暖阳、粉蓝、黛蓝">
 </p>
 
 想要项目管理、便签管理、微信机器人、世界时钟、秒表、时间进度、项目进度、股票、音乐播放、工作区预设、日迹、时间册导出、今日节奏和 28 套主题？[在项目主页查看 Lite 与 Pro 的差异](https://tobaba.github.io/ucalendar-site/?from=lite#editions)。Lite 会长期维护现有免费功能。
@@ -79,7 +79,7 @@
 
 ## 下载
 
-**[下载 UCalendar Lite v2.8.2](https://github.com/tobaba/ucalendar-lite/releases/latest/download/UCalendar-Lite.exe)**（约 8.8 MB）
+**[下载 UCalendar Lite v3.0.0](https://github.com/tobaba/ucalendar-lite/releases/latest/download/UCalendar-Lite.exe)**（8.4 MB）
 
 1. 下载 `UCalendar-Lite.exe`，双击运行，**无需安装**
 2. 左键点任务栏时钟呼出面板；右键时钟是快捷菜单
@@ -89,15 +89,15 @@
 
 本项目完全免费，没有广告、登录或订阅。
 
-## 赞赏支持
+## 支持
 
-Lite 应用内不显示赞赏入口；如果它帮到了你，可以在本页扫码支持，完全自愿。
+Lite 应用内不显示支持入口；如果它帮到了你，可以在本页扫码支持，完全自愿。
 
 <p align="center">
-  <img src="assets/readme/support-qr.png" width="220" alt="UCalendar 微信赞赏码">
+  <img src="assets/readme/support-qr.png" width="220" alt="UCalendar 微信收款码">
 </p>
 
-扫码后请在赞赏留言中填写邮箱，作者会把支持码发到该邮箱。Pro 版 20 元起，一次支持，长期可用。
+扫码付款后请在付款备注中填写邮箱，作者会把支持码发到该邮箱。Pro 版 20 元起，一次支持，长期可用。
 
 ## 常见问题
 
