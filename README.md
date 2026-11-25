@@ -94,7 +94,7 @@
 Lite 应用内不显示支持入口；如果它帮到了你，可以在本页扫码支持，完全自愿。
 
 <p align="center">
-  <img src="assets/readme/support-qr.png?v=3.0.1" width="220" alt="UCalendar 作者微信二维码">
+  <img src="assets/readme/support-qr.png?v=0e6929b0" width="220" alt="UCalendar 作者微信二维码">
 </p>
 
 扫码加好友 → 发红包 → 收到支持码填上即可。Pro 版 20 元起，一次支持，长期可用。
