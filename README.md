@@ -2,13 +2,13 @@
 
 **Windows 桌面日历 · 任务栏时钟 · 6 个桌面组件 · 6 套主题 · AI 小秘书**
 
-单文件绿色版，双击即用。日历、日程、待办、天气、番茄钟、便签住在桌面上；默认深色主题，点任务栏时钟，今天的一切就在眼前。当前版本 **v3.0.0**。
+单文件绿色版，双击即用。日历、日程、待办、天气、番茄钟、便签住在桌面上；默认深色主题，点任务栏时钟，今天的一切就在眼前。当前版本 **v3.0.1**。
 
 [项目主页](https://tobaba.github.io/ucalendar-site/?from=lite) · [下载](https://github.com/tobaba/ucalendar-lite/releases/latest/download/UCalendar-Lite.exe) · [反馈](https://github.com/tobaba/ucalendar-lite/issues)
 
 <p align="center">
   <a href="https://github.com/tobaba/ucalendar-lite/releases/latest">
-    <img src="assets/readme/v300/hero-lite.png" width="100%" alt="UCalendar Lite v3.0.0：6 个桌面组件、6 套主题、AI 秘书免费可用">
+    <img src="assets/readme/v300/hero-lite.png" width="100%" alt="UCalendar Lite v3.0.1：6 个桌面组件、6 套主题、AI 秘书免费可用">
   </a>
 </p>
 
@@ -79,7 +79,7 @@
 
 ## 下载
 
-**[下载 UCalendar Lite v3.0.0](https://github.com/tobaba/ucalendar-lite/releases/latest/download/UCalendar-Lite.exe)**（8.4 MB）
+**[下载 UCalendar Lite v3.0.1](https://github.com/tobaba/ucalendar-lite/releases/latest/download/UCalendar-Lite.exe)**（8.4 MB）
 
 1. 下载 `UCalendar-Lite.exe`，双击运行，**无需安装**
 2. 左键点任务栏时钟呼出面板；右键时钟是快捷菜单
@@ -94,10 +94,10 @@
 Lite 应用内不显示支持入口；如果它帮到了你，可以在本页扫码支持，完全自愿。
 
 <p align="center">
-  <img src="assets/readme/support-qr.png?v=3.0.0" width="220" alt="UCalendar 微信收款码">
+  <img src="assets/readme/support-qr.png?v=3.0.1" width="220" alt="UCalendar 作者微信二维码">
 </p>
 
-扫码付款后请在付款备注中填写邮箱，作者会把支持码发到该邮箱。Pro 版 20 元起，一次支持，长期可用。
+扫码加好友 → 发红包 → 收到支持码填上即可。Pro 版 20 元起，一次支持，长期可用。
 
 ## 常见问题
 
