@@ -2,13 +2,13 @@
 
 **Windows 桌面日历 · 任务栏时钟 · 6 个桌面组件 · 6 套主题 · AI 小秘书**
 
-单文件绿色版，双击即用。日历、日程、待办、天气、番茄钟、便签住在桌面上；默认深色主题，点任务栏时钟，今天的一切就在眼前。当前版本 **v3.0.1**。
+单文件绿色版，双击即用。日历、日程、待办、天气、番茄钟、便签住在桌面上；默认深色主题，点任务栏时钟，今天的一切就在眼前。当前版本 **v3.1.0**。
 
 [项目主页](https://tobaba.github.io/ucalendar-site/?from=lite) · [下载](https://github.com/tobaba/ucalendar-lite/releases/latest/download/UCalendar-Lite.exe) · [反馈](https://github.com/tobaba/ucalendar-lite/issues)
 
 <p align="center">
   <a href="https://github.com/tobaba/ucalendar-lite/releases/latest">
-    <img src="assets/readme/v300/hero-lite.png" width="100%" alt="UCalendar Lite v3.0.1：6 个桌面组件、6 套主题、AI 秘书免费可用">
+    <img src="assets/readme/v300/hero-lite.png" width="100%" alt="UCalendar Lite v3.1.0：6 个桌面组件、6 套主题、AI 秘书免费可用">
   </a>
 </p>
 
@@ -34,7 +34,7 @@
 - **倒计时**：生日、纪念日、假期与考试，重要日子一眼可见
 - **便签**：彩色便签常驻桌面，随手记，随时看
 
-全部组件支持拖动、缩放、透明度、锁定位置、鼠标穿透；收起后汇总到胶囊栏，点击或悬停展开。
+全部组件支持拖动、缩放、透明度、锁定位置、鼠标穿透；首次启用会自动排成对齐的列，避开桌面图标。收起后汇总到胶囊栏，点击或悬停展开。
 
 ## 日历与提醒
 
@@ -67,7 +67,7 @@
   <img src="assets/readme/v300/themes-lite.png" width="100%" alt="UCalendar Lite 6 套主题：深色、浅色、护眼、暖阳、粉蓝、黛蓝">
 </p>
 
-想要项目管理、便签管理、微信机器人、世界时钟、秒表、时间进度、项目进度、股票、音乐播放、工作区预设、日迹、时间册导出、今日节奏和 28 套主题？[在项目主页查看 Lite 与 Pro 的差异](https://tobaba.github.io/ucalendar-site/?from=lite#editions)。Lite 会长期维护现有免费功能。
+想要项目管理、便签管理、微信机器人、每日打卡、系统监控、课程表、世界时钟、秒表、时间进度、项目进度、股票、音乐播放、工作区预设、日迹、时间册导出、今日节奏和 28 套主题？[在项目主页查看 Lite 与 Pro 的差异](https://tobaba.github.io/ucalendar-site/?from=lite#editions)。Lite 会长期维护现有免费功能。
 
 ## 数据与设置
 
@@ -79,7 +79,7 @@
 
 ## 下载
 
-**[下载 UCalendar Lite v3.0.1](https://github.com/tobaba/ucalendar-lite/releases/latest/download/UCalendar-Lite.exe)**（8.4 MB）
+**[下载 UCalendar Lite v3.1.0](https://github.com/tobaba/ucalendar-lite/releases/latest/download/UCalendar-Lite.exe)**（8.5 MB）
 
 1. 下载 `UCalendar-Lite.exe`，双击运行，**无需安装**
 2. 左键点任务栏时钟呼出面板；右键时钟是快捷菜单
@@ -109,7 +109,7 @@ Lite 应用内不显示支持入口；如果它帮到了你，可以在本页扫
 
 **支持哪些系统？** Windows 10 / 11 为官方支持。
 
-**Lite 和 Pro 有什么区别？** Lite 保留日程、待办、月历、今日安排、黄历 / 吉日、便签、6 个桌面组件、6 套主题与 AI；项目管理、便签管理、微信机器人、日迹、时间册导出、今日节奏、6 个 Pro 组件、工作区预设和 22 套高级主题属于 Pro。可在「设置 → 关于」或[项目主页](https://tobaba.github.io/ucalendar-site/?from=lite#editions)查看。
+**Lite 和 Pro 有什么区别？** Lite 保留日程、待办、月历、今日安排、黄历 / 吉日、便签、6 个桌面组件、6 套主题与 AI；项目管理、便签管理、微信机器人、日迹、时间册导出、今日节奏、每日打卡、系统监控、课程表、9 个 Pro 组件、工作区预设和 22 套高级主题属于 Pro。可在「设置 → 关于」或[项目主页](https://tobaba.github.io/ucalendar-site/?from=lite#editions)查看。
 
 ---
 
